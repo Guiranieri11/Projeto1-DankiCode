@@ -15,7 +15,7 @@
 .container-navegacao {
     max-width: 1520px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 10px 0 0 0;
 }
 
 header {
@@ -57,40 +57,75 @@ nav.menu-desktop a {
 .container-banner {
     max-width: 100%;
     margin: 0 auto;
-
+    display: block;
 }
 
+
 .banner {
-    width: 100%;
+    width: 59%;
     height: 1050px;
     float: left;
     background-repeat: no-repeat;
     background-image: url(/Projeto-1/Projeto1-DankiCode/images/banner.png);
     background-position: left;
+
 }
 
 .cta {
     margin: 0 auto;
-    width: 500px;
+    width: 460px;
+    position: relative;
     float: right;
-
-    /*  position: relative;
-    left: 600px;
-    bottom: 700px */
+    max-width: 100%;
+    margin: 180px 140px 0px 0px;
 }
-
 
 
 .chamada h1 {
     font-weight: 300;
     color: #54cc54;
-    font-size: 40pt;
+    font-size: 50pt;
     padding: 20px 0px;
+    line-height: 83px;
+
 }
 
 .chamada p {
     font-weight: 300;
     color: #424242;
     font-size: 20pt;
-    line-height: 39px
+    line-height: 43px;
+    margin-top: 10px
+}
+
+.botao-inicial [type=button] {
+    margin: 0 auto;
+    padding: 15px;
+    border-radius: 40px;
+    border: 0;
+    background-color: #54cc54;
+    color: #ffffff;
+    width: 70%;
+    font-size: 26pt;
+    font-weight: 100;
+    margin: 50px 0 0 0;
+}
+
+/*Meio do Site*/
+
+.artigo {
+    margin: 0 auto;
+    max-width: 41%;
+    display: block;
+    margin-top: 90px
+}
+
+.artigo h1 {
+    margin: 0 auto;
+    font-weight: 100;
+    width: 100%;
+    max-width: 100%;
+    display: block;
+    color: #0098ff;
+    font-size: 35pt;
 }
