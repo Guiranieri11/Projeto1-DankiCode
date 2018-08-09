@@ -163,8 +163,13 @@ nav.menu-desktop a {
     background-color: #54cc54;
     color: #ffffff;
 <<<<<<< HEAD
+<<<<<<< HEAD
     min-width: 350px;
     font-size: 26pt;
+=======
+    width: 70%;
+    font-size: 2vw;
+>>>>>>> 6b78d2cac6a58a39094a08d030f268b1a76a3d93
 =======
     width: 70%;
     font-size: 2vw;
@@ -248,7 +253,11 @@ nav.menu-desktop a {
 
 .experimente {
 <<<<<<< HEAD
+<<<<<<< HEAD
     padding: 150px 0px 0 0;
+=======
+    padding: 10% 0;
+>>>>>>> 6b78d2cac6a58a39094a08d030f268b1a76a3d93
 =======
     padding: 10% 0;
 >>>>>>> 6b78d2cac6a58a39094a08d030f268b1a76a3d93
@@ -258,10 +267,13 @@ nav.menu-desktop a {
     color: #ffffff;
     font-weight: 100;
 <<<<<<< HEAD
+<<<<<<< HEAD
     font-size: 55px;
     padding: 30px 0;
     min-width: 300px
 =======
+=======
+>>>>>>> 6b78d2cac6a58a39094a08d030f268b1a76a3d93
     font-size: 5vw;
     padding: 10% 0 5% 0;
 
@@ -272,10 +284,13 @@ nav.menu-desktop a {
     color: #ffffff;
     font-weight: 100;
 <<<<<<< HEAD
+<<<<<<< HEAD
     font-size: 27px;
     line-height: 49px;
     min-width: 500px
 =======
+=======
+>>>>>>> 6b78d2cac6a58a39094a08d030f268b1a76a3d93
     font-size: 1.5vw;
     line-height: 170%;
 
