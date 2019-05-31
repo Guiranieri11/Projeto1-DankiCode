@@ -123,17 +123,21 @@ nav.menu-desktop a {
 
 
 .banner img {
-    max-width: 55%;
+    width: 59%;
+    max-width: 100%;
     float: left;
-    
+    background-position: left;
 
 }
 
+.box-cta {
+    padding: 150px 150px 0 0;
+}
 
 .cta {
+    width: 460px;
     float: right;
-    max-width: 44%;
-    padding: 5% 4% 0 5%;
+    max-width: 100%;
 
 }
 
@@ -141,17 +145,17 @@ nav.menu-desktop a {
 .cta h1 {
     font-weight: 300;
     color: #54cc54;
-    font-size: 5vw;
+    font-size: 50pt;
     padding: 20px 0px;
-    line-height: 120%;
+    line-height: 83px;
 
 }
 
 .cta p {
     font-weight: 300;
     color: #424242;
-    font-size: 2vw;
-    line-height: 160%;
+    font-size: 20pt;
+    line-height: 43px;
     margin-top: 10px
 }
 
@@ -164,6 +168,7 @@ nav.menu-desktop a {
     color: #ffffff;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     min-width: 350px;
     font-size: 26pt;
 =======
@@ -174,6 +179,10 @@ nav.menu-desktop a {
     width: 70%;
     font-size: 2vw;
 >>>>>>> 6b78d2cac6a58a39094a08d030f268b1a76a3d93
+=======
+    width: 350px;
+    font-size: 26pt;
+>>>>>>> parent of 7835033... Ajustes
     font-weight: 100;
     margin: 50px 0 0 0;
 }
@@ -196,14 +205,14 @@ nav.menu-desktop a {
     padding: 0px 50px;
     display: block;
     color: #0098ff;
-    font-size: 3.5vw;
+    font-size: 35pt;
     text-align: center;
 }
 
 .box-icones {
     margin: 0 auto;
-    max-width: 80%;
-    padding: 3% 0 0 0;
+    max-width: 1500px;
+    padding: 50px 0 0 0;
 }
 
 .icone img {
@@ -216,7 +225,7 @@ nav.menu-desktop a {
     float: left;
     width: 33.3%;
     text-align: center;
-    padding: 3% 5%;
+    padding: 56px 90px;
     color: #424242;
     vertical-align: middle;
 
@@ -230,9 +239,9 @@ nav.menu-desktop a {
 }
 
 .icone-texto p {
-    font-size: 1.5vw;
+    font-size: 20px;
     font-weight: 100;
-    line-height: 160%;
+    line-height: 30px;
 
 }
 
@@ -245,13 +254,14 @@ nav.menu-desktop a {
 
 .cta-experimente {
     float: left;
-    padding: 5% 5% 0;
+    padding: 200px 110px 0;
     width: 40%;
     position: absolute;
 
 }
 
 .experimente {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     padding: 150px 0px 0 0;
@@ -261,11 +271,15 @@ nav.menu-desktop a {
 =======
     padding: 10% 0;
 >>>>>>> 6b78d2cac6a58a39094a08d030f268b1a76a3d93
+=======
+    padding: 150px 0;
+>>>>>>> parent of 7835033... Ajustes
 }
 
 .cta-experimente h1 {
     color: #ffffff;
     font-weight: 100;
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     font-size: 55px;
@@ -276,13 +290,17 @@ nav.menu-desktop a {
 >>>>>>> 6b78d2cac6a58a39094a08d030f268b1a76a3d93
     font-size: 5vw;
     padding: 10% 0 5% 0;
+=======
+    font-size: 55px;
+    padding: 30px 0;
+>>>>>>> parent of 7835033... Ajustes
 
->>>>>>> 6b78d2cac6a58a39094a08d030f268b1a76a3d93
 }
 
 .cta-experimente p {
     color: #ffffff;
     font-weight: 100;
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     font-size: 27px;
@@ -293,121 +311,40 @@ nav.menu-desktop a {
 >>>>>>> 6b78d2cac6a58a39094a08d030f268b1a76a3d93
     font-size: 1.5vw;
     line-height: 170%;
+=======
+    font-size: 26px;
+    line-height: 49px;
+>>>>>>> parent of 7835033... Ajustes
 
->>>>>>> 6b78d2cac6a58a39094a08d030f268b1a76a3d93
 }
 
 .botao-experimente [type=button] {
     margin: 0 auto;
-    padding: 4%;
+    padding: 15px;
     border-radius: 40px;
     border: 0;
     background-color: #ffffff;
     color: #0098ff;
-    width: 80%;
-    min-width: 70%;
-    font-size: 2vw;
+    width: 350px;
+    font-size: 26pt;
     font-weight: 100;
-    margin: 8% 0 0 0;
+    margin: 50px 0 0 0;
 }
 
 
 .imagem-pc img {
     max-width: 100%;
-    display: block;
-    float: right;
-}
-
-.centro {
-    margin: 0 auto;
-    max-width: 100%;
-    text-align: center;
-    margin-top: -50px
+    display: block
 }
 
 
-div .botoes-1 {
-    padding: 1px 10px;
-    margin: 10px;
-    background-color: #54cc54;
-    display: inline;
-    border-radius: 30px;
-}
-
-div .botoes-2,
-.botoes-3 {
-    padding: 1px 10px;
-    margin: 10px;
-    border: 0.5px solid #54cc54;
-    display: inline;
-    border-radius: 30px;
-}
-
-/*opinião*/
-
-.opiniao {
-    padding: 200px 0 0 0;
-}
-
-.box-opiniao h1 {
-    margin: 0 auto;
-    font-weight: 100;
-    max-width: 100%;
-    padding: 50px 50px;
-    display: block;
-    color: #0098ff;
-    font-size: 35pt;
-    text-align: center;
-}
-
-.box-carossel {
-    margin: 0 auto;
-    max-width: 45%;
-
-}
-
-.avatar img {
-    vertical-align: middle;
-    float: left;
-    display: inline-block;
-}
 
 
-.opiniao-diego {
-    vertical-align: middle;
-    max-width: 60%;
-    display: inline-block;
-    line-height: 35px;
-    font-weight: 100;
-    color: #424242;
-    float: right;
-    font-size: 25px;
-    padding: 50px 0 0 0
-}
-
-.opiniao-diego h2 {
-    font-size: 22px;
-    padding: 20px 0
-}
-
-i {
-    color: #63e063;
-    font-size: 50px;
-    vertical-align: middle;
-    padding: 0 20px;
-
-}
-
-*/
 /*Media screen*/
 
 @media (max-width:650px) {
     .icone-texto {
         width: 100%;
         padding: 50px 20px
-    }
-    
-    .titulo-meio h1{
-        font-size: 7vw;
     }
 }
